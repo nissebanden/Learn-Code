@@ -1,0 +1,7 @@
+# Variabler
+
+## Hvad er en variable? 
+Variabler er "beholdere" til opbevaring af dataværdier
+
+Eksempel:
+```print("test")```
